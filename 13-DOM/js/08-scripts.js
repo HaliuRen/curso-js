@@ -36,6 +36,7 @@ console.log(card);
 console.log(card.nextElementSibling);
 console.log(card.nextElementSibling.nextElementSibling);
 
+
 const ultimoCard = document.querySelector('.card:nth-child(4)');
 console.log(ultimoCard);
 console.log(ultimoCard.previousElementSibling);
